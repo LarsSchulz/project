@@ -124,7 +124,7 @@ class GUI(QMainWindow):
             self.timer.stop()
             self.playing = False
 
-# Example usage
+
 app = QApplication([])
 window = GUI()
 window.show()
